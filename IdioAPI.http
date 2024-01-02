@@ -1,0 +1,6 @@
+@IdioAPI_HostAddress = http://localhost:5115
+
+GET {{IdioAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
